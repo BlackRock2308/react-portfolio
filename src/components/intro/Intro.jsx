@@ -11,16 +11,16 @@ const Intro = () => {
                     <div className="i-title">
                         <div className="i-title-wrapper">
                             <div className="i-title-item">Full Stack Web Developer</div>
-                            <div className="i-title-item">UI/UX Designer</div>
-                            <div className="i-title-item">BasketBall player</div>
-                            <div className="i-title-item">Writer</div>
+                            <div className="i-title-item">Devops enthousiat</div>
                             <div className="i-title-item">Content Creator</div>
+                            <div className="i-title-item">Writer</div>
+                            <div className="i-title-item">BasketBall's Addict</div>
                         </div>
                     </div>
                     <p className="i-desc">
-                        I design and develop services for customers of all sizes,
-                        specializing in creating stylish, modern websites, web services and
-                        online stores.
+                        I'm on my second first year as a junior software Developer and I'm highly passionated
+                        by web technologies like angular and react for frontend and also nodejs, spring boot and django for 
+                        the backend.
                     </p>
                 </div>
                     {/* <svg

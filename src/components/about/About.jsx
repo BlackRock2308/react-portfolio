@@ -20,22 +20,22 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+          Being able to help customers and industries realizing something new and something usefull for helping
+          growth is a tremendous source of motivation. Every single day, we are trying to get better for making
+          an impact...!
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          I'm currently a student engineer at Thies polytechnic especially in computer science and telecom.
+          I have a solid basics in most common tools for using new technologies with a hight level of efficiency.
+          From Data Analysis for machine learning to web development with angular/react and nodejs/springboot/django,
+          i have develop a lot of project arround those technologies.
         </p>
         <div className="a-award">
           <img src={Logo} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">Polytech hack</h4>
             <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
+              I have participed in a lot of hackatons with mostly in the top3 at the end.
             </p>
           </div>
         </div>
