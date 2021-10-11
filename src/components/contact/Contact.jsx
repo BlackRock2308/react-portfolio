@@ -60,7 +60,7 @@ const Contact = () => {
             <div className="c-right">
               <p className="c-desc">
                 <b>What’s your story?</b> Get in touch. Always available for
-                freelancing if the right project comes along. me.
+                freelancing or collaborating in interesting project.
               </p>
               <form ref={formRef} onSubmit={handleSubmit}>
                 <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name" />
